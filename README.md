@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giriprasadp
-- 👀 I’m interested in C# and NodeJs
+- 👀 I’m interested in C# and NodeJs (Server Development and DevOps)
 - 🌱 I’m currently learning C# with playfab
 - ⚡ Fun fact: undefined
 
